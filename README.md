@@ -1,2 +1,4 @@
 # Tugas-Pengkodean-Shanti
 SHANTI ALYA PARAMITA
+NIM : 12030123140346
+KELAS : F
